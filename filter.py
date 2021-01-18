@@ -63,5 +63,5 @@ filtered = image.filter(ImageFilter.Kernel(
     scale=1
 ))
 
-# Show resulting image
+# show resulting image
 filtered.show()
