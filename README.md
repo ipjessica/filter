@@ -8,5 +8,7 @@ The filter itself is a 3-D structure of the kernels stacked together that produc
   
 # Usage  
 Input image needs to be in the same folder as filter.py  
-Navigate to the file's directory,   
+  
+Navigate to the file's directory,  
+  
 `% python3 filter.py image.jpg`
